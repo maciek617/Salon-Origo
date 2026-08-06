@@ -2,12 +2,12 @@
 import { services, hairLength } from "~/data/services";
 
 useSeoMeta({
-  title: "Cennik usług fryzjerskich w Gdańsku | Origo",
+  title: "Cennik usług fryzjerskich w Gdańsku",
 
   description:
     "Sprawdź aktualny cennik usług fryzjerskich w Gdańsku. Ceny strzyżenia, koloryzacji, balayage, ombre, modelowania i pielęgnacji włosów.",
 
-  ogTitle: "Cennik usług fryzjerskich | Origo",
+  ogTitle: "Cennik usług fryzjerskich",
 
   ogDescription:
     "Sprawdź ceny strzyżenia, koloryzacji i pozostałych usług fryzjerskich.",
@@ -64,7 +64,7 @@ watch(searchTerm, (newTerm) => {
               textShadow: '0 0 60px rgba(201, 169, 97, 0.3)',
             }"
           >
-            Cennik usług fryzjerskich w Gdańsku
+            Cennik usług w Origo
           </h1>
 
           <div class="w-20 h-px bg-[#c9a961] mx-auto mb-8"></div>

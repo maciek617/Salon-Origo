@@ -6,6 +6,7 @@
       <div class="mt-4 lg:mt-0">
         <NuxtImg
           src="https://images.pexels.com/photos/8543032/pexels-photo-8543032.jpeg"
+          alt="Mężczyzna stojący tyłem w niebieskiej kosztulce z napisaem Volunteer"
           width="250"
           height="250"
           format="webp"

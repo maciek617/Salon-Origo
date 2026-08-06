@@ -1,7 +1,7 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "Kontakt – salon fryzjerski w Gdańsku | Origo",
-  ogTitle: "Kontakt – salon fryzjerski w Gdańsku | Origo",
+  title: "Kontakt – salon fryzjerski w Gdańsku",
+  ogTitle: "Kontakt – salon fryzjerski w Gdańsku",
   ogDescription:
     "Sprawdź adres, godziny otwarcia i numer telefonu salonu Origo w Gdańsku. Umów wizytę.",
   description:
@@ -198,6 +198,7 @@ const socialMedia = [
         class="mx-auto w-full"
         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d148651.94356017772!2d18.3752825!3d54.3978501!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46fd756b6862d7a3%3A0x706142a1408a5494!2sORIGO%20GDA%C5%83SK%20HAIR%20DESIGN%20%26%20ORGANIC%20CARE!5e0!3m2!1sen!2spl!4v1784379889554!5m2!1sen!2spl"
         style="border: 0"
+        title="Mapa z zaznaczonym salonem Origo"
         allowfullscreen="true"
         loading="lazy"
         height="450"

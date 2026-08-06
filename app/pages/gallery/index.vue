@@ -64,7 +64,7 @@
             class="absolute inset-0 border-2 border-[#c9a961]/20 group-hover:border-[#c9a961]/60 transition-all duration-500 z-10"
           ></div>
 
-          <NuxtImg
+          <LazyNuxtImg
             :quality="image.quality"
             :format="image.format"
             :src="image.url"
@@ -79,12 +79,12 @@
 
 <script lang="ts" setup>
 useSeoMeta({
-  title: "Galeria fryzur | koloryzacji | Origo",
+  title: "Galeria fryzur | koloryzacji",
 
   description:
     "Zobacz efekty naszych strzyżeń, koloryzacji, balayage i stylizacji włosów w salonie Origo w Gdańsku. Poznaj nasze realizacje i znajdź inspirację na swoją wizytę.",
 
-  ogTitle: "Galeria fryzur | Origo",
+  ogTitle: "Galeria fryzur",
 
   ogDescription:
     "Zobacz efekty naszych strzyżeń, koloryzacji, balayage i stylizacji włosów.",

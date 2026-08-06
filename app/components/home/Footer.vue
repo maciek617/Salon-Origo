@@ -67,9 +67,9 @@ const socialLinks = ref([
         </div>
 
         <div class="lg:col-span-2">
-          <h4 class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
+          <p class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
             NAWIGACJA
-          </h4>
+          </p>
           <div class="w-12 h-px bg-[#c9a961] mb-6"></div>
           <ul class="space-y-4">
             <li v-for="link in links" :key="link.name">
@@ -89,9 +89,9 @@ const socialLinks = ref([
         </div>
 
         <div class="lg:col-span-2">
-          <h4 class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
+          <p class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
             USŁUGI
-          </h4>
+          </p>
           <div class="w-12 h-px bg-[#c9a961] mb-6"></div>
           <ul class="space-y-4 text-white/60">
             <li>Strzyżenie Damskie</li>
@@ -102,9 +102,9 @@ const socialLinks = ref([
         </div>
 
         <div class="lg:col-span-3">
-          <h4 class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
+          <p class="luxury-text text-white text-xs tracking-[0.2em] mb-6">
             GODZINY
-          </h4>
+          </p>
           <div class="w-12 h-px bg-[#c9a961] mb-6"></div>
           <div class="space-y-4">
             <div>

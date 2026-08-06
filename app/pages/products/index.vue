@@ -55,29 +55,77 @@
     <div class="container mx-auto mt-10">
       <div class="w-fit flex gap-5 flex-wrap justify-center">
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
 
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
         <div class="bg-white">
-          <NuxtImg src="/Joico-Logo.png" quality="80" height="200"></NuxtImg>
+          <LazyNuxtImg
+            src="/Joico-Logo.png"
+            quality="80"
+            height="200"
+            width="350"
+            alt="Logo firmy JOICO"
+          ></LazyNuxtImg>
         </div>
       </div>
     </div>
@@ -86,12 +134,12 @@
 
 <script lang="ts" setup>
 useSeoMeta({
-  title: "Profesjonalne produkty do włosów | Origo",
+  title: "Profesjonalne produkty do włosów",
 
   description:
     "Poznaj profesjonalne produkty do włosów, których używamy w naszym salonie fryzjerskim. Sprawdzone kosmetyki do pielęgnacji, stylizacji i koloryzacji włosów.",
 
-  ogTitle: "Profesjonalne produkty do włosów | Origo",
+  ogTitle: "Profesjonalne produkty do włosów",
 
   ogDescription:
     "Sprawdź kosmetyki i produkty do włosów, których używamy podczas pielęgnacji, stylizacji i koloryzacji w naszym salonie.",
