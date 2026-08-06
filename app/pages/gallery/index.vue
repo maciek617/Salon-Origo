@@ -82,14 +82,12 @@ useSeoMeta({
   title: "Galeria fryzur | koloryzacji | Origo",
 
   description:
-    "Starannie wybrana kolekcja pokazująca nasze zaangażowanie w doskonałość oraz wyrafinowane środowisko, w którym praktykujemy nasze rzemiosło",
+    "Zobacz efekty naszych strzyżeń, koloryzacji, balayage i stylizacji włosów w salonie Origo w Gdańsku. Poznaj nasze realizacje i znajdź inspirację na swoją wizytę.",
 
   ogTitle: "Galeria fryzur | Origo",
 
   ogDescription:
     "Zobacz efekty naszych strzyżeń, koloryzacji, balayage i stylizacji włosów.",
-
-  ogImage: "/og/galeria.jpg",
 
   ogType: "website",
 });

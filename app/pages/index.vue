@@ -15,29 +15,23 @@ useSeoMeta({
   description:
     "Profesjonalny salon fryzjerski w Gdańsku. Strzyżenie damskie i męskie, koloryzacja, balayage, ombre oraz pielęgnacja włosów. Umów wizytę.",
 
-  ogTitle: "Origo – salon fryzjerski w Warszawie",
+  ogTitle: "Origo – salon fryzjerski w Gdańsku",
 
   ogDescription:
     "Strzyżenie, koloryzacja, balayage, ombre i profesjonalna pielęgnacja włosów w Warszawie.",
-
-  ogImage: "/og/home.jpg",
 });
 
 useSchemaOrg([
   {
     "@type": "HairSalon",
 
-    "@id": "https://twoj-salon.pl/#salon",
+    "@id": "https://salonorigo.pl/#salon",
 
     name: "Origo",
 
-    url: "https://twoj-salon.pl",
+    url: "https://salonorigo.pl/",
 
     telephone: "+48 606 852 121",
-
-    priceRange: "$$",
-
-    image: ["https://twoj-salon.pl/images/salon.jpg"],
 
     address: {
       "@type": "PostalAddress",

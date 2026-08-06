@@ -1,7 +1,9 @@
 <script setup lang="ts">
 useSeoMeta({
-  title: "Kontakt – salon fryzjerski Gdańsk | Origo",
-
+  title: "Kontakt – salon fryzjerski w Gdańsku | Origo",
+  ogTitle: "Kontakt – salon fryzjerski w Gdańsku | Origo",
+  ogDescription:
+    "Sprawdź adres, godziny otwarcia i numer telefonu salonu Origo w Gdańsku. Umów wizytę.",
   description:
     "Skontaktuj się z naszym salonem fryzjerskim w Gdańsku. Sprawdź adres, godziny otwarcia, numer telefonu i umów wizytę.",
 });
