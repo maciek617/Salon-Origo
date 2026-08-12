@@ -109,7 +109,7 @@ const socialLinks = ref([
           <div class="space-y-4">
             <div>
               <div
-                class="uppercase luxury-text text-xs text-white/40 mb-1 tracking-[0.15em]"
+                class="uppercase luxury-text text-xs text-white/90 mb-1 tracking-[0.15em]"
               >
                 Wtorek - Piątek
               </div>
@@ -117,7 +117,7 @@ const socialLinks = ref([
             </div>
             <div>
               <div
-                class="uppercase luxury-text text-xs text-white/40 mb-1 tracking-[0.15em]"
+                class="uppercase luxury-text text-xs text-white/90 mb-1 tracking-[0.15em]"
               >
                 sobota
               </div>
@@ -125,7 +125,7 @@ const socialLinks = ref([
             </div>
             <div>
               <div
-                class="uppercase luxury-text text-xs text-white/40 mb-1 tracking-[0.15em]"
+                class="uppercase luxury-text text-xs text-white/90 mb-1 tracking-[0.15em]"
               >
                 niedziela | poniedziałek
               </div>
@@ -139,13 +139,13 @@ const socialLinks = ref([
         <div
           class="flex flex-col md:flex-row justify-between items-center gap-4"
         >
-          <p class="luxury-text text-white/40 text-xs tracking-[0.15em]">
+          <p class="luxury-text text-white/70 text-xs tracking-[0.15em]">
             © {{ currentYear }} ORIGO. Wszelkie prawa zastrzeżone.
           </p>
-          <p class="luxury-text text-white/40 text-xs tracking-[0.15em]">
+          <p class="luxury-text text-white/70 text-xs tracking-[0.15em]">
             PHU Origo Piotr Pośpiech
           </p>
-          <p class="luxury-text text-white/40 text-xs tracking-[0.15em]">
+          <p class="luxury-text text-white/70 text-xs tracking-[0.15em]">
             NIP: 9910186414
           </p>
         </div>

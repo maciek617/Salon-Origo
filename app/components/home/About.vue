@@ -42,9 +42,10 @@ const stats = ref([
           <div class="relative">
             <div class="aspect-3/4 overflow-hidden relative">
               <div class="absolute inset-0 border-2 border-[#c9a961]/30"></div>
-              <img
+              <NuxtImg
                 src="https://images.unsplash.com/photo-1759134198561-e2041049419c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBiYXJiZXJzaG9wfGVufDF8fHx8MTc2MTMxNDU5N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
                 alt="Wnętrze ORIGO"
+                quality="80"
                 class="w-full h-full object-cover"
               />
               <div
@@ -137,7 +138,7 @@ const stats = ref([
                     <span class="text-[#c9a961]">{{ stat.suffix }}</span>
                   </div>
                   <div
-                    class="luxury-text text-xs text-white/50 tracking-[0.15em]"
+                    class="luxury-text text-xs text-white/70 tracking-[0.15em]"
                   >
                     {{ stat.label }}
                   </div>

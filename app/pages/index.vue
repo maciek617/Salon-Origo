@@ -3,14 +3,14 @@
     <HomeNav />
     <HomeHero />
     <HomeAbout />
-    <HomeVolunteer />
-    <HomeBooking />
+    <LazyHomeVolunteer />
+    <LazyHomeBooking />
   </div>
 </template>
 
 <script setup lang="ts">
 useSeoMeta({
-  title: "Salon fryzjerski w Gdańsku | Origo",
+  title: "Salon fryzjerski w Gdańsku",
 
   description:
     "Profesjonalny salon fryzjerski w Gdańsku. Strzyżenie damskie i męskie, koloryzacja, balayage, ombre oraz pielęgnacja włosów. Umów wizytę.",
@@ -18,7 +18,11 @@ useSeoMeta({
   ogTitle: "Origo – salon fryzjerski w Gdańsku",
 
   ogDescription:
-    "Strzyżenie, koloryzacja, balayage, ombre i profesjonalna pielęgnacja włosów w Warszawie.",
+    "Strzyżenie, koloryzacja, balayage, ombre i profesjonalna pielęgnacja włosów w Gdańsku.",
+
+  ogType: "website",
+
+  ogImage: "/og-image.png",
 });
 
 useSchemaOrg([

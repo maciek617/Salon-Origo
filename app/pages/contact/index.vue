@@ -235,7 +235,9 @@ const socialMedia = [
           </h2>
         </div>
 
-        <div class="flex items-center justify-center gap-5 flex-wrap">
+        <div
+          class="flex items-center justify-center gap-5 flex-wrap lg:flex-nowrap"
+        >
           <a
             v-for="(social, index) in socialMedia"
             :key="index"

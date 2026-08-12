@@ -1,5 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 import tailwindcss from "@tailwindcss/vite";
+import { P } from "vue-router/dist/index-BN0B0y8a.js";
 
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
