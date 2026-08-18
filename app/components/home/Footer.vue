@@ -39,7 +39,7 @@ const socialLinks = ref([
           <p class="text-white/60 leading-relaxed mb-8 max-w-md">
             Gdzie tradycja spotyka się z nowoczesną doskonałością. Doświadcz
             spersonalizowanej pielęgnacji w atmosferze niekompromisowego luksusu
-            od 2009 roku.
+            od 2019 roku.
           </p>
 
           <div class="flex gap-4">

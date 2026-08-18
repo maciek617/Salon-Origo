@@ -2,20 +2,20 @@
 const stats = ref([
   {
     icon: "iconoir:medal",
-    value: "15",
+    value: "19",
     label: "Lat Doświadczenia",
     suffix: "+",
   },
   {
     icon: "solar:users-group-rounded-bold",
-    value: "5K",
+    value: "Tysiące",
     label: "Zadowolonych Klientów",
     suffix: "+",
   },
-  { icon: "ix:clock", value: "24", label: "Rezerwacja Online", suffix: "/7" },
+  { icon: "ix:clock", value: "24", label: "Dobra atmosfera", suffix: "/7" },
   {
     icon: "ix:certificate-success-filled",
-    value: "4.9",
+    value: "4.8",
     label: "Ocena Klientów",
     suffix: "/5",
   },
@@ -37,7 +37,6 @@ const stats = ref([
       <div
         class="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center"
       >
-        <!--        <Icon name="uil:github" style="color: black" />-->
         <div class="relative order-2 lg:order-1">
           <div class="relative">
             <div class="aspect-3/4 overflow-hidden relative">
@@ -62,7 +61,7 @@ const stats = ref([
             class="absolute -bottom-8 -right-8 bg-[#2a4236] border-2 border-[#c9a961]/30 p-8 hidden lg:block backdrop-blur-sm"
           >
             <div class="flex items-baseline gap-2 mb-2">
-              <span class="text-5xl text-[#c9a961]">15</span>
+              <span class="text-5xl text-[#c9a961]">19</span>
               <span class="text-2xl text-[#c9a961]">+</span>
             </div>
             <div class="luxury-text text-xs text-white/60 tracking-[0.2em]">
@@ -85,29 +84,56 @@ const stats = ref([
             <span class="text-[#c9a961] italic" :style="{ fontFamily: 'serif' }"
               >Piękno</span
             ><br />
-            Od 2009 Roku
+            Od 2019 Roku
           </h2>
 
           <div class="w-20 h-px bg-[#c9a961] mb-8"></div>
 
           <div class="space-y-6 text-white/70 text-lg leading-relaxed mb-12">
             <p>
-              W ORIGO podnieśliśmy sztukę barberingu do poziomu prawdziwej艺.
-              Nasi mistrzowie łączą wieloletnią tradycję z nowoczesnymi
-              technikami, tworząc doświadczenie wykraczające poza zwykłą wizytę
-              u fryzjera.
+              ORIGO - salon fryzjersko-kosmetyczny, który powstał w 2019 roku.
+              Jest odpowiedzią na zapotrzebowanie rynku "beauty" w salony, które
+              oferują holistyczne podejście do tematu "piękna". Oferujemy
+              kompleksowe usługi z zagadnień fryzjerstwa, kosmetyki, podologii.
             </p>
 
             <p>
-              Każda wizyta to podróż w świat wyrafinowania — gdzie precyzja
-              spotyka się z artystycznym podejściem, a Twój indywidualny styl
-              jest celebrowany i dopracowany do perfekcji.
+              W naszym salonie stawiamy na luźną, rodzinną atmosferę. Podczas
+              państwa wizyt skupiamy sie na wyznaczonych zadaniach. Staramy sie
+              aby państwa komfort był na najwyższym poziomie. Przyjmując państwa
+              pod swoja opiekę wyznajemy zasadę holistycznej opieki, która
+              wykracza po za standardy oferowane na naszym rynku.
+            </p>
+            <p>
+              <span class="text-[#c9a961]">Piotr</span>
+              - pierwszy właściciel salonu, kolorysta i specjalista od spraw
+              pielęgnacji włosów z doświadczeniem o roku 2020.
+              <span class="text-[#c9a961]">Radek</span> - drugi właściciel
+              salonu, główny fryzjer kolorysta, specjalista od spraw
+              trychologicznych. Jako pan kosmetyczka, zajmuje sie także tematem
+              pielęgnacji twarzy i zagadnieniami podologii. Jego doświadczenie
+              sięga roku 2007. <span class="text-[#c9a961]">Nastassia</span> -
+              fryzjerka, kolorystka. Specjalistka od koloryzacji awangardowych.
+              Zajmuje się włosami od 2020 roku.
+              <span class="text-[#c9a961]">Aria i Luka</span> - dwa słodkie
+              Yorki, to one witają państwa jako pierwsze. W naszym salonie
+              zwierzeta maja więcej praw niż ludzie ;)
             </p>
 
             <p>
-              Używamy wyłącznie najlepszych produktów premium, które dbają o
-              Twoje włosy i brodę, zapewniając długotrwałe efekty i wyjątkowe
-              doznania.
+              Twórcami salonu ORIGO są Piotr i Radek, ich zespół powiększa
+              Nastassia. W skład drużyny salonu wchodzą także ich pupile -
+              "opiekuni salonu" - Aria i Luka.
+            </p>
+
+            <p>
+              Salon ORIGO, jako podziękowanie dla losu za możliwość jego
+              otwarcia, prowadzi także wolontariaty dla osób onkologicznych oraz
+              osób niepełnosprawnych pod opieka wyspecjalizowanych ośrodków.
+              Więcej na ten temat w zakładce
+              <a href="#volunteer" class="text-[#c9a961] underline"
+                >WOLONTARIAT</a
+              >.
             </p>
           </div>
 

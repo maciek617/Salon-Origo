@@ -128,6 +128,78 @@ const images = ref([
     quality: 80,
     alt: "Widziana od tyłu osoba z gładką, srebrzystą fryzurą typu bob sięgającą do brody, ubrana w szarą bluzę z kapturem, w salonie fryzjerskim z półkami pełnymi produktów do włosów.",
   },
+  {
+    url: "/7.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, srebrzystą fryzurą.",
+  },
+  {
+    url: "/8.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, czerwoną fryzurą typu bob sięgającą do ramion.",
+  },
+  {
+    url: "/9.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, bordową fryzurą typu bob sięgającą do brody.",
+  },
+  {
+    url: "/10.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od boku osoba z krótką fryzurą.",
+  },
+  {
+    url: "/11.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, srebrzystą fryzurą.",
+  },
+  {
+    url: "/12.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, brązową fryzurą.",
+  },
+  {
+    url: "/13.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, rudą fryzurą sięgającą do brody.",
+  },
+  {
+    url: "/14.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, krótką fryzurą.",
+  },
+  {
+    url: "/15.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od tyłu osoba z gładką, czerwoną fryzurą.",
+  },
+  {
+    url: "/16.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od boku osoba z gładką, krótką fryzurą.",
+  },
+  {
+    url: "/17.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od boku osoba z gładką, krótką fryzurą.",
+  },
+  {
+    url: "/18.webp",
+    format: "webp",
+    quality: 80,
+    alt: "Widziana od boku osoba z gładką, krótką fryzurą.",
+  },
 ]);
 </script>
 
